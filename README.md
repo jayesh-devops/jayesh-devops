@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=endeavour-1&label=Profile%20views&color=0e75b6&style=flat" alt="endeavour-1" /> </p>
 
-- 💬 Ask me about **Java, Cloud Computing, Software Testing, DevOps**
+- 💬 Ask me about **Java, Cloud Computing, Software Testing, DevOps Tools**
 
 - 📫 How to reach me **jayesh.savkare.work@gmail.com**
 
