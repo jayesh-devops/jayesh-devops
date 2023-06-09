@@ -1,5 +1,6 @@
 <h2 align="center">Hi 👋! My name is Jayesh Savkare and I'm a Software Engineer from Punjab.</h2>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jayeshsavkare" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/jayeshsavkare?trk=profile-badge">Jayesh S.</a></div>
+              
 ###
 
 <p align="center">🎓 Education<br>B. Tech (Undergraduate) 2024<br>Lovely Professional University, Phagwara<br><br>Computer Science & Engineering<br><br>Minors – DevOps & Software Testing<br><br>💻 Technical Skills<br><br>Programming Languages: Python, Boto3, Bash Scripting, Java<br>Web Technologies: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP)<br>Development Operations (DevOps): Git, GitHub, Docker, Jenkins, Kubernetes (K8's), Terraform, Ansible<br>Software Testing: Automated Testing with JUnit Framework, Selenium IDE<br>Platforms and Operating Systems: VMware Workstation, VMware V-Sphere.<br><br>Linux Ubuntu, Amazon Linux, Windows XP,7,8,10&11 and MacOS.</p>
