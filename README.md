@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Jayesh 
 
-🚀 **DevOps Engineer | Cloud Enthusiast **  
+🚀 **DevOps Engineer | Cloud Enthusiast**  
 
 I'm a passionate **DevOps Engineer** with experience in **Cloud Computing, Kubernetes, Infrastructure Automation, and CI/CD Pipelines**. I love solving complex problems, optimizing workflows, and ensuring high availability for applications.  
 
@@ -30,8 +30,9 @@ I'm a passionate **DevOps Engineer** with experience in **Cloud Computing, Kuber
 
 ## 🌱 Currently Exploring  
 - **Advanced Kubernetes Networking & Security**  
-- **GitOps & ArgoCD Best Practices**  
-- **Serverless Architectures**  
+- **GitOps & Automation Best Practices**  
+- **Serverless Architectures**
+- **Learning Python and Go**
 
 ## 📫 Connect with Me  
 📩 **Email:** [jayesh.savkare.work@gmail.com](mailto:jayesh.savkare.work@gmail.com)  
